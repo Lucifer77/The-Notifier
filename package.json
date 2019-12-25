@@ -1,0 +1,19 @@
+{
+  "name": "node_push_notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.16.3",
+    "request": "^2.88.0",
+    "web-push": "^3.3.1"
+  }
+}
